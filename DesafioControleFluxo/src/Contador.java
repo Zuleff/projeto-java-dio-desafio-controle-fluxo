@@ -3,7 +3,8 @@ import java.util.Scanner;
 /**
  * @author Luiz Vieira
  * @since 11/06/2024
- * @version 1.0
+ * @version 1.0.0
+ * 
  */
 
 public class Contador {
